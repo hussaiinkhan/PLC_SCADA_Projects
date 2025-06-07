@@ -105,6 +105,10 @@ The system mimics a **box sorting conveyor line** that classifies boxes into sma
 ### PLC Logic for Counting the number of each box size and turning on their respective alarm
 <img width="924" alt="Screenshot 2025-06-07 at 4 11 23 PM" src="https://github.com/user-attachments/assets/371bc763-da55-407e-808c-e5ec888f455b" />
 
+### Demo Video
+
+https://github.com/user-attachments/assets/e71019ce-9577-482f-8a22-ab7834ea808a
+
 
 ---
 
