@@ -62,4 +62,10 @@ The system is designed to:
 ---
 
 ## 📷 SFC Logic Diagram
+<img width="1353" alt="Screenshot 2025-06-07 at 4 51 35 PM" src="https://github.com/user-attachments/assets/feae3ac6-3ff6-47c8-8b82-cc9ea27504d9" />
+
+## Demo Video
+https://github.com/user-attachments/assets/5fa3d7c9-4b83-4b3a-b42e-d2f4c3579bb4
+
+
 
