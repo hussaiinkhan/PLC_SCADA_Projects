@@ -118,6 +118,8 @@ Using comparator logic:
 <img width="1101" alt="Screenshot 2025-06-07 at 4 39 53 PM" src="https://github.com/user-attachments/assets/139a6f3e-9fb8-41ec-a4b1-b5c514b1e10d" />
 
 ### Demo Video (First fifth floor is pressed to move the elevator up and then ground floor to move the elevator down)
+https://github.com/user-attachments/assets/9f006888-8491-42cc-a187-605fc8e7739c
+
 
 ---
 
