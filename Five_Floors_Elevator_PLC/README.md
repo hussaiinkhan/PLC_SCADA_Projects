@@ -108,7 +108,16 @@ Using comparator logic:
 
 ## 📸 Screenshots
 
-> _(Insert images of ladder logic rungs and tag values during simulation)_
+### PLC logic for floor selection using MOV function block
+<img width="1111" alt="Screenshot 2025-06-07 at 4 38 36 PM" src="https://github.com/user-attachments/assets/0ceca25e-f7ac-4b25-8ff2-c605378c3e94" />
+
+### PLC Logic for comparing the current floor with target floor and deciding the elevator's required action using comparators
+<img width="1131" alt="Screenshot 2025-06-07 at 4 38 56 PM" src="https://github.com/user-attachments/assets/0e1fc897-b31d-4321-b719-050c3d25b66b" />
+
+### PLC Logic for increasing or decreasing the current floor value based on elevator action using function blocks and up-down counter block
+<img width="1101" alt="Screenshot 2025-06-07 at 4 39 53 PM" src="https://github.com/user-attachments/assets/139a6f3e-9fb8-41ec-a4b1-b5c514b1e10d" />
+
+### Demo Video (First fifth floor is pressed to move the elevator up and then ground floor to move the elevator down)
 
 ---
 
