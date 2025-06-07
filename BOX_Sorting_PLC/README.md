@@ -95,8 +95,11 @@ The system mimics a **box sorting conveyor line** that classifies boxes into sma
 ---
 
 ## 📸 Screenshots
+<img width="890" alt="Screenshot 2025-06-07 at 4 10 18 PM" src="https://github.com/user-attachments/assets/6ce70946-9f0e-455b-9274-5380f1060448" />
+<img width="924" alt="Screenshot 2025-06-07 at 4 11 23 PM" src="https://github.com/user-attachments/assets/371bc763-da55-407e-808c-e5ec888f455b" />
 
-> _(Add ladder diagram screenshots, tag viewer images, or simulation screen captures)_
+<img width="890" alt="Screenshot 2025-06-07 at 4 10 46 PM" src="https://github.com/user-attachments/assets/7b310386-c501-4fe0-9280-ddec48969606" />
+
 
 ---
 
